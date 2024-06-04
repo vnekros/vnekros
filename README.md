@@ -1,14 +1,14 @@
-Boas vindas ao meu perfil 🫀
+**Boas vindas ao meu perfil** 🤙
 
-- 👋 Hi, I’m @vnekros
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Meu nome é Victor Ferreira
 
-<!---
-vnekros/vnekros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Eu sou professor de História e estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para compartilhamento de projetos, trocas, aprendizagem e para organização pessoal
+
+
+### Você pode entrar em contato comigo 📫
+
+victorarrais@prof.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/DcuzaULdSQsAAAAC/focalette-kelly-kapoor.gif)
