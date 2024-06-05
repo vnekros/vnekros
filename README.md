@@ -1,5 +1,9 @@
 **Boas vindas ao meu perfil** 🤙
 
+**victort** 
+
+[linkedin](https://br.linkedin.com/)
+
 Meu nome é Victor Ferreira
 
 - Eu sou professor de História e estou estudando no [Alura](https://www.alura.com.br)
