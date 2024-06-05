@@ -11,4 +11,6 @@ Meu nome é Victor Ferreira
 
 victorarrais@prof.educacao.sp.gov.br
 
-![]([https://media1.tenor.com/m/DcuzaULdSQsAAAAC/focalette-kelly-kapoor.gif](https://media1.tenor.com/m/7X9KjkIfDQwAAAAC/michael-scott.gif)
+
+![](https://media1.tenor.com/m/7X9KjkIfDQwAAAAC/michael-scott.gif)
+
